@@ -3,36 +3,36 @@
         "id": 1,
         "name": "Asim Hussain",
         "title": "JavaScript For Beginners",
-        "img": ""
+        "img": "https://i.postimg.cc/8Pyx0LSK/java-Script-1.jpg"
     },
     {
         "id": 2,
         "name": "John Bura",
         "title": "1 Hour JavaScript",
-        "img": ""
+        "img": "https://i.postimg.cc/QtbfWrN4/java-Script-2.jpg"
     },
     {
         "id": 3,
         "name": "Anthony Alicea",
         "title": "JavaScript: Understanding the Weird Parts",
-        "img": ""
+        "img": "https://i.postimg.cc/cHXcLMTP/java-Script-3.png"
     },
     {
         "id": 4,
         "name": "Javascript for Beginners Learn by Doing Practical Exercises",
         "title": "JavaScript for Beginners",
-        "img": ""
+        "img": "https://i.postimg.cc/XvWKKDzT/JAva-Script-4.jpg"
     },
     {
         "id": 5,
         "name": "Arkadiusz Wlodarczyk",
         "title": "JavaScript from Beginners to Expert",
-        "img": ""
+        "img": "https://i.postimg.cc/HkDbHhdV/java-Script-5.jpg"
     },
     {
         "id": 6,
         "name": "Bryson Payne",
         "title": "Advanced JavaScript",
-        "img": ""
+        "img": "https://i.postimg.cc/fLr0PH8W/Java-Script-6.jpg"
     }
 ]
