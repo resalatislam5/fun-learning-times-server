@@ -3,36 +3,42 @@
         "id": 1,
         "category_id":1,
         "title": "JavaScript For Beginners",
-        "body": "JavaScript is a free scripting language that works on client-side as well as server-side. It is text-based and works along-side HTML and CSS to enhance code functionality and add interactive elements. In short, JS can bring life to otherwise boring and static web pages. JS is interpreted, which means the code need not be compiled. For huge projects that use a lot of interactive content, separate JavaScript files with the extension .js are created. However, JS can also be embedded in HTML code using <script> tag. Some common use-cases of JS are interactive maps, live news updates, form validations, creating landing pages, etc."
+        "body": "JavaScript is a free scripting language that works on client-side as well as server-side. It is text-based and works along-side HTML and CSS to enhance code functionality and add interactive elements. In short, JS can bring life to otherwise boring and static web pages. JS is interpreted, which means the code need not be compiled. For huge projects that use a lot of interactive content, separate JavaScript files with the extension .js are created. However, JS can also be embedded in HTML code using <script> tag. Some common use-cases of JS are interactive maps, live news updates, form validations, creating landing pages, etc.",
+        "img": "https://i.postimg.cc/8Pyx0LSK/java-Script-1.jpg"
     },
     {
         "id": 2,
         "category_id":2,
         "title": "1 Hour JavaScript",
-        "body": "You want to explicitly add it at a particular place of the array. That place is called the index. Array indexes start from 0 , so if you want to add the item first, you’ll use index 0 , in the second place the index is 1 , and so on. To perform this operation you will use the splice() method of an array.13-Sept-2019var input = document. getElementsByName(‘array[]’); The document. getElementsByName() method is used to return all the values stored under a particular name and thus making input variable an array indexed from 0 to number of inputs.10-May-2022Example 1: Add Item to Array Using splice() In the splice() method, The first argument specifies the index where you want to insert an item. The second argument (here 0) specifies the number of items to remove. The third argument specifies the element that you want to add to an array."
+        "body": "You want to explicitly add it at a particular place of the array. That place is called the index. Array indexes start from 0 , so if you want to add the item first, you’ll use index 0 , in the second place the index is 1 , and so on. To perform this operation you will use the splice() method of an array.13-Sept-2019var input = document. getElementsByName(‘array[]’); The document. getElementsByName() method is used to return all the values stored under a particular name and thus making input variable an array indexed from 0 to number of inputs.10-May-2022Example 1: Add Item to Array Using splice() In the splice() method, The first argument specifies the index where you want to insert an item. The second argument (here 0) specifies the number of items to remove. The third argument specifies the element that you want to add to an array.",
+        "img": "https://i.postimg.cc/QtbfWrN4/java-Script-2.jpg"
     },
     {
         "id": 3,
         "category_id":4,
         "title": "JavaScript: Understanding the Weird Parts",
-        "body": "David Walsh is a renowned name in the JavaScript world. He started his career with DZone, but his first real break came while working for SitePen as a Software Engineer. His blog composes of topics related to JavaScript, personal thoughts, guides and much more. The blog design is captivating and is going to hook you up on the first visit. Currently, he is working as a Senior Web Developer at Mozilla.DailyJS is one of the best JavaScript blogs on the internet. The blog was started by Alex R. Young, an entrepreneur and Node.js expert in 2009. However, there are recent changes that don’t sound great. Currently, the blog is no longer updated, but that does not make the content useless at all. The blog covers diverse content on JavaScript including frameworks, API’s, libraries, etc."
+        "body": "David Walsh is a renowned name in the JavaScript world. He started his career with DZone, but his first real break came while working for SitePen as a Software Engineer. His blog composes of topics related to JavaScript, personal thoughts, guides and much more. The blog design is captivating and is going to hook you up on the first visit. Currently, he is working as a Senior Web Developer at Mozilla.DailyJS is one of the best JavaScript blogs on the internet. The blog was started by Alex R. Young, an entrepreneur and Node.js expert in 2009. However, there are recent changes that don’t sound great. Currently, the blog is no longer updated, but that does not make the content useless at all. The blog covers diverse content on JavaScript including frameworks, API’s, libraries, etc.",
+        "img": "https://i.postimg.cc/cHXcLMTP/java-Script-3.png"
     },
     {
         "id": 4,
         "category_id":4,
         "title": "JavaScript for Beginners",
-        "body": "JavaScript is a free scripting language that works on client-side as well as server-side. It is text-based and works along-side HTML and CSS to enhance code functionality and add interactive elements. In short, JS can bring life to otherwise boring and static web pages. JS is interpreted, which means the code need not be compiled. For huge projects that use a lot of interactive content, separate JavaScript files with the extension .js are created. However, JS can also be embedded in HTML code using <script> tag. Some common use-cases of JS are interactive maps, live news updates, form validations, creating landing pages, etc."
+        "body": "JavaScript is a free scripting language that works on client-side as well as server-side. It is text-based and works along-side HTML and CSS to enhance code functionality and add interactive elements. In short, JS can bring life to otherwise boring and static web pages. JS is interpreted, which means the code need not be compiled. For huge projects that use a lot of interactive content, separate JavaScript files with the extension .js are created. However, JS can also be embedded in HTML code using <script> tag. Some common use-cases of JS are interactive maps, live news updates, form validations, creating landing pages, etc.",
+        "img": "https://i.postimg.cc/XvWKKDzT/JAva-Script-4.jpg"
     },
     {
         "id": 5,
         "category_id":5,
         "title": "JavaScript from Beginners to Expert",
-        "body": "David Walsh is a renowned name in the JavaScript world. He started his career with DZone, but his first real break came while working for SitePen as a Software Engineer. His blog composes of topics related to JavaScript, personal thoughts, guides and much more. The blog design is captivating and is going to hook you up on the first visit. Currently, he is working as a Senior Web Developer at Mozilla.DailyJS is one of the best JavaScript blogs on the internet. The blog was started by Alex R. Young, an entrepreneur and Node.js expert in 2009. However, there are recent changes that don’t sound great. Currently, the blog is no longer updated, but that does not make the content useless at all. The blog covers diverse content on JavaScript including frameworks, API’s, libraries, etc."
+        "body": "David Walsh is a renowned name in the JavaScript world. He started his career with DZone, but his first real break came while working for SitePen as a Software Engineer. His blog composes of topics related to JavaScript, personal thoughts, guides and much more. The blog design is captivating and is going to hook you up on the first visit. Currently, he is working as a Senior Web Developer at Mozilla.DailyJS is one of the best JavaScript blogs on the internet. The blog was started by Alex R. Young, an entrepreneur and Node.js expert in 2009. However, there are recent changes that don’t sound great. Currently, the blog is no longer updated, but that does not make the content useless at all. The blog covers diverse content on JavaScript including frameworks, API’s, libraries, etc.",
+        "img": "https://i.postimg.cc/HkDbHhdV/java-Script-5.jpg"
     },
     {
         "id": 6,
         "category_id":6,
         "title": "Advanced JavaScript",
-        "body": "JavaScript is one of the most dynamic languages out there. Multiple features are added to make the language more manageable and practical each year.In this blog post, we are going through some recent features added to the language and some tricks that you could use in a daily coding journey that will help make you better at JavaScript coding.Writing this blog post allows me to share some of the concepts that I learned over the last years condensed into one place."
+        "body": "JavaScript is one of the most dynamic languages out there. Multiple features are added to make the language more manageable and practical each year.In this blog post, we are going through some recent features added to the language and some tricks that you could use in a daily coding journey that will help make you better at JavaScript coding.Writing this blog post allows me to share some of the concepts that I learned over the last years condensed into one place.",
+        "img": "https://i.postimg.cc/fLr0PH8W/Java-Script-6.jpg"
     }
 ]
